@@ -1,6 +1,6 @@
 apiVersion: v1
-name: k8s-watcher
+appVersion: 0.1.16
 description: Watches and send kubernetes resource-related events
 icon: https://raw.githubusercontent.com/komodorio/helm-charts/master/placeholder-logo.png
-version: 0.1.24
-appVersion: 0.1.15
+name: k8s-watcher
+version: 0.1.25
